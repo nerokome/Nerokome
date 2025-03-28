@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on a chat app with flutter **And employee and sales report with my sql and power BI**
 
--  [A year experience in flutter development and a year experience in data analysis]
+-  experience in flutter development and a year experience in data analysis
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
