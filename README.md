@@ -1,6 +1,6 @@
 ## 
 <h1 align="center">Hi 👋, I'm Nero</h1>
-<h3 align="center">A passionate fullstack developer, mobile app developer and data analyst </h3>
+<h3 align="center">A fullstack developer, mobile app developer and data analyst </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nerokome&label=Profile%20views&color=0e75b6&style=flat" alt="nerokome" /> </p>
 
