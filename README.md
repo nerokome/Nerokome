@@ -1,14 +1,14 @@
 ## 
 <h1 align="center">Hi 👋, I'm Nero</h1>
-<h3 align="center">A passionate frontend developer, mobile app developer and data analyst </h3>
+<h3 align="center">A passionate fullstack developer, mobile app developer and data analyst </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nerokome&label=Profile%20views&color=0e75b6&style=flat" alt="nerokome" /> </p>
 
 
 
-- 🔭 I’m currently working on an internship in web development **And employee and sales report with my sql and power BI**
+- 
 
--  experience in flutter development, web development and a year experience in data analysis
+-  experience in mobile development, web development and  experience in data analysis
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
