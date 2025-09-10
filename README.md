@@ -6,13 +6,14 @@
 
 
 
--  experience in mobile development, web development and  experience in data analysis
+-  experience in mobile development, web development and in data analysis
 
 
 - 💻 I build scalable web and mobile applications using:
    - Backend: Node.js, Express.js, Prisma, MySQL, PostgreSQL, MongoDB
    - Frontend: React.js, Next.js, Tailwind CSS
    - Mobile: Flutter & Dart
+   - Data science: MySql, Excel, PowerBi
 
 ⚡ I enjoy working on real-world projects — from authentication systems to dashboards, chat apps, and full management platforms.
 
