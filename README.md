@@ -10,7 +10,7 @@
 
 
 - 💻 I build scalable web and mobile applications using:
-   - Backend: Node.js, Express.js, Prisma, MySQL, PostgreSQL, MongoDB
+   - Backend: Node.js, Express.js, Golang, Prisma, MySQL, PostgreSQL, MongoDB
    - Frontend: React.js, Next.js, Tailwind CSS
    - Mobile: Flutter & Dart
    - Data science: MySql, Excel, PowerBi
