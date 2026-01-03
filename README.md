@@ -1,35 +1,35 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/render?type=soft&color=0e75b6&height=250&section=header&text=Hi,%20I'm%20Nero%20👋&fontSize=70&animation=fadeIn" width="100%" />
   
-  <h3>🚀 Fullstack Engineer | Mobile Specialist | Data Strategist</h3>
+  <h3>🚀 Fullstack Developer | Mobile App Specialist | Data Analyst</h3>
 
   <p>
-    <img src="https://img.shields.io/badge/Focus-Scalable%20Systems-blueviolet?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Main_Stack-Javascript%20%7C%20Dart-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/Focus-Mobile%20%26%20Scalable%20Web-blue?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Open%20To-Collaboration-success?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Main_Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   </p>
 </div>
 
 ---
 
-### ⚡ Quick Summary
+### ⚡ Professional Summary
 
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-      <h4>💻 What I'm doing</h4>
+      <h4>💻 Development</h4>
       <ul>
-        <li>Building high-performance <b>Mobile Apps</b> with Flutter</li>
-        <li>Architecting <b>Distributed Backends</b> in Go, Node & Python</li>
-        <li>Transforming raw data into <b>Business Intelligence</b></li>
+        <li>Building cross-platform apps with <b>Flutter & Dart</b></li>
+        <li>Architecting web systems with <b>React & Next.js</b></li>
+        <li>Backend engineering using <b>Node.js, Go, and Prisma</b></li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>🎯 Current Goals</h4>
+      <h4>📊 Data Strategy</h4>
       <ul>
-        <li>Deep diving into Advanced System Design</li>
-        <li>Building AI-driven automation scripts with <b>Python</b></li>
-        <li>Contributing to Open Source Web3 projects</li>
+        <li>Analytical modeling with <b>SQL & Excel</b></li>
+        <li>Visualizing complex data in <b>PowerBI</b></li>
+        <li>Scripting and automation using <b>Python</b></li>
       </ul>
     </td>
   </tr>
@@ -37,22 +37,23 @@
 
 ---
 
-### 🛠️ My Tech Ecosystem
+### 🛠️ Tech Stack & Ecosystem
 
 <div align="center">
 
-| **Domain** | **Tools & Technologies** |
+| Category | Tools & Technologies |
 | :--- | :--- |
-| **Frontend & Mobile** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white) |
-| **Backend & Cloud** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Go](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white) |
-| **Databases** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) |
-| **Data Science** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white) |
+| **Mobile** | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Go](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white) |
+| **Database** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) |
+| **Data Tools** | ![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) |
 
 </div>
 
 ---
 
-### 📊 Performance & Insights
+### 📈 GitHub Insights
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nerokome&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
@@ -65,7 +66,7 @@
 
 ---
 
-### 🤝 Let's Build Something Great!
+### 🤝 Let's Connect
 
 <div align="center">
   <a href="https://twitter.com/nerokome" target="blank">
